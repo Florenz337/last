@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">last</string>
+    <string name="txt_Login_login">Вход</string>
+    <string name="txt_Login_email">Email</string>
+    <string name="txt_Login_Password">Пароль</string>
+    <string name="txt_Login_NoAcc">Нет аккаунта?</string>
+    <string name="btn_Login_sign_in">Войти</string>
+    <string name="btn_Login_Remember">Забыли пароль?</string>
+    <string name="btn_Login_Registration">Регистрация</string>
+    <string name="txt_Registration_registration">Регистрация</string>
+    <string name="txt_Email">Email</string>
+    <string name="txt_Password">Пароль</string>
+    <string name="txt_Password2">Повторите пароль</string>
+    <string name="btn_Registration_registration">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="JSON" />
+</resources>
